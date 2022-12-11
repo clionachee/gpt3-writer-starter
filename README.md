@@ -21,3 +21,4 @@ yarn add next react react-dom
 ```
 yarn dev
 ```
+Browse http://localhost:3000/
