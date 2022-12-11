@@ -1,4 +1,5 @@
-# buildspace 
+# GPT-3 
+# Relive the wisdom of history's greatest mental health pioneers
 ### Welcome 👋
 This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
 
